@@ -1,0 +1,6 @@
+pollnrun:
+
+ Simple script to poll all files of interest below the current working directory
+for changes.
+ When any file changes, it will run w/e commands you want. To customize, edit the
+tasks list. For me, it has been helpful in restarting tornado web nodes during development.
